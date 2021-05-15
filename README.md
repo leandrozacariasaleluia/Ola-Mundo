@@ -1,2 +1,2 @@
-# Ola Mundo
- Primeiro repositorio do curso em video Git e Github
+# Olá, Mundo
+ Primeiro repositorio do Curso em Video Git e Github
